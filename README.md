@@ -9,4 +9,4 @@ one.**
 Remember that you can also comment on existing issues to add more information / detail.
 
 This repository is meant exclusively for the client itself, issues for the
-installer should be opened (there)[https://github.com/HGLabor/client-installer-rs/issues].
+installer should be opened [there](https://github.com/HGLabor/client-installer-rs/issues).
